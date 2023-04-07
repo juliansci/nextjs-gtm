@@ -7,7 +7,7 @@ export default function Contact() {
       <Head>
         <title>GTM Integration - Contact</title>
       </Head>
-      <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      <main className="flex flex-col items-center justify-between p-24">
         <Link href="/">Home</Link>
         GTM Integration - Contact
       </main>

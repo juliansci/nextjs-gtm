@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>GTM Integration - Index</title>
       </Head>
-      <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      <main className="flex flex-col items-center justify-between p-24">
         <Link href="/contact">Contact</Link>
         GTM Integration - Index
       </main>
